@@ -1,2 +1,2 @@
-# python-twitter-analysis
-This tool allows you to create a visual map of keywords and reactions and username mentions based on a hashtag.
+# python-twitter-analysis-program
+This program captures tweets on a topic of your choice, stores these tweets in a SQL Server database, processes them through Microsoft’s Cognitive Services Text Analytics API, and visualizes  findings.
